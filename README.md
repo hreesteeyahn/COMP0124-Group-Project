@@ -47,4 +47,8 @@ This repository contains two Jupyter notebooks that are part of a simulation pro
 - **cleanup-with-q-agent.ipynb**: This notebook is more advanced and includes implementations of Q-learning. It's crucial to understand the flow of states, actions, and rewards as these are fundamental to how the learning process is simulated.
 
 ### Support
-For any issues or further questions, please open an issue in this repository or contact the maintainers directly.
+For any issues or further questions, please open an issue in this repository or contact the maintainers directly. Or contact the contributors.
+
+### Contributors
+- **Yipeng Qu**: [yipeng.qu.20@ucl.ac.uk](mailto:yipeng.qu.20@ucl.ac.uk)
+- **Hristijian Bosilkovski**: [hristijan.bosilkovski.23@ucl.ac.uk](mailto:hristijan.bosilkovski.23@ucl.ac.uk)
