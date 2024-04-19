@@ -50,5 +50,6 @@ This repository contains two Jupyter notebooks that are part of a simulation pro
 For any issues or further questions, please open an issue in this repository or contact the maintainers directly. Or contact the contributors.
 
 ### Contributors
+- **Hristijan Bosilkovski**: [hristijan.bosilkovski.23@ucl.ac.uk](mailto:hristijan.bosilkovski.23@ucl.ac.uk)
+- **Amna Elbadawi**: [amena.elbadawi.23@ucl.ac.uk](mailto:amena.elbadawi.23@ucl.ac.uk)
 - **Yipeng Qu**: [yipeng.qu.20@ucl.ac.uk](mailto:yipeng.qu.20@ucl.ac.uk)
-- **Hristijian Bosilkovski**: [hristijan.bosilkovski.23@ucl.ac.uk](mailto:hristijan.bosilkovski.23@ucl.ac.uk)
