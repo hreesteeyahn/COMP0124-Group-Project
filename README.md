@@ -5,7 +5,7 @@ This repository contains a Jupyter notebook that represents a simulation project
 
 ### Files
 
-**cleanup.ipynb** - This notebook sets up the Cleanup simulation environment and the 
+**cleanup.ipynb** - This notebook sets up the Cleanup simulation environment and the agents.
 
 ### System Requirements
 - **Python 3.8** or higher
